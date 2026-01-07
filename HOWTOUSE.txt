@@ -1,0 +1,1 @@
+For use with Codex CLI GPT-5.1-codex-mini with high reasoning and web-search enabled.
