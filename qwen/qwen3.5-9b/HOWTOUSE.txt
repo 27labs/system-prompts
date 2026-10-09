@@ -1,0 +1,1 @@
+Use at 0.09 temperature with thinking and web search MCP. (Tested as an LM Studio system prompt, with Parallel Web Search MCP).

@@ -1,0 +1,1 @@
+Use at 0.27 temperature with high reasoning and web search MCP. (Tested as an LM Studio system prompt, on the Zed code editor with Brave Search MCP).

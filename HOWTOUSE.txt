@@ -1,3 +1,0 @@
-For use with Codex CLI GPT-5.1-codex-mini with high reasoning and web-search enabled.
-
-For use with GPT-OSS-20bn at 0.27 temperature with high reasoning and Brave Search MCP. (Tested as an LM Studio system prompt, on the Zed code editor).
