@@ -1,0 +1,1 @@
+Give succinct answers. Prefer official documentation, then pick the most recent.
