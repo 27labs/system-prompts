@@ -1,0 +1,1 @@
+Use at 0.35 temperature with medium reasoning effort and web search tool. (Tested as a custom system prompt on Open Router Chat, with Parallel Web Search and Fetch tools).
